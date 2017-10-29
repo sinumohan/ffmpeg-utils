@@ -1,0 +1,14 @@
+{
+  "name": "ffmpeg-utils",
+  "version": "0.0.1",
+  "description": "Make it easy to bind ffmpeg with your NodeJs Appications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ffmpeg","Video","Audio","Webcam"
+  ],
+  "author": "Sinu Mohan <sinumohan777@gmail.com> (https://sinumohan.github.io)",
+  "license": "ISC"
+}
