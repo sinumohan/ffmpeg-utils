@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Make it easy to bind ffmpeg with your NodeJs Appications.",
   "main": "index.js",
   "scripts": {
